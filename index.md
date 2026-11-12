@@ -1,8 +1,12 @@
 # 何拴绪简历
 
-**求职意向**：Java 后端开发 | 北京 | 一个月内到岗 | 10 年+ 经验
-
-**电话**：13146385064 | **邮箱**：[heshuanxu@163.com](mailto:heshuanxu@163.com)
+<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: wrap; gap: 24px;">
+  <div>
+    <p><strong>求职意向</strong>：Java 后端开发 | 北京 | 一个月内到岗 | 10 年+ 经验</p>
+    <p><strong>电话</strong>：13146385064 | <strong>邮箱</strong>：<a href="mailto:heshuanxu@163.com">heshuanxu@163.com</a></p>
+  </div>
+  <img src="/images/wechat-8cm.jpg" alt="公众号二维码" style="width: 3cm; height: 3cm;">
+</div>
 
 ---
 
@@ -143,12 +147,3 @@
 ## 教育背景
 
 ### 2009-09 ~ 2013-06 | 湖南城市学院 | 计算机科学与技术（本科）
-
-### 公众号
-![公众号](/images/wechat-8cm.jpg)
-
-
-
-
-
-
