@@ -1,16 +1,7 @@
-## 欢迎来到YS宝宝list
-
-- [ ] 游戏厅
-
-- [ ] 卡丁车
-
-- [ ] 攀岩
-
-- [ ] 射箭
-
-- [ ] 地狱拉面
-
-![image](https://github.com/shawnHsx/shawnHsx.github.io/raw/master/images/ys_list.png)
+## 欢迎来到荷塘月色的主页
 
 
------------------⏰请YS宝宝自行持续更新----------------
+
+
+
+
